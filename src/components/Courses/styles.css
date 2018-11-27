@@ -1,0 +1,11 @@
+.page-courses .list-group p{
+  overflow: hidden;
+  height: 50px;
+}
+.spinner{
+  font-size: 48px;
+  transform: translate(-50%);
+  position: absolute;
+  top: 40%;
+  left: 60%;
+}
